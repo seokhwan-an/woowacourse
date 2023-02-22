@@ -21,3 +21,5 @@
 
 ### 학습
 [JCF(Java Collection Framework)](https://velog.io/@seokhwan-an/JCFJava-Collection-Framework)
+<br>
+[JVM(Java Virtual Machine)](https://velog.io/@seokhwan-an/JVM)
