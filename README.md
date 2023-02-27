@@ -25,3 +25,5 @@
 [JVM(Java Virtual Machine)](https://velog.io/@seokhwan-an/JVM)
 <br>
 [정적 팩토리 메소드](https://velog.io/@seokhwan-an/%EC%A0%95%EC%A0%81-%ED%8C%A9%ED%86%A0%EB%A6%AC-%EB%A9%94%EC%86%8C%EB%93%9C-o17sifs5)
+<br>
+[방어적 복사](https://velog.io/@seokhwan-an/%EB%B0%A9%EC%96%B4%EC%A0%81-%EB%B3%B5%EC%82%AC)
