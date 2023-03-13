@@ -28,3 +28,5 @@
 [정적 팩토리 메소드](https://velog.io/@seokhwan-an/%EC%A0%95%EC%A0%81-%ED%8C%A9%ED%86%A0%EB%A6%AC-%EB%A9%94%EC%86%8C%EB%93%9C-o17sifs5)
 <br>
 [방어적 복사](https://velog.io/@seokhwan-an/%EB%B0%A9%EC%96%B4%EC%A0%81-%EB%B3%B5%EC%82%AC)
+<br>
+[동등성과 동일성](https://velog.io/@seokhwan-an/%EB%8F%99%EB%93%B1%EC%84%B1%EA%B3%BC-%EB%8F%99%EC%9D%BC%EC%84%B1)
