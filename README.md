@@ -32,3 +32,5 @@
 [동등성과 동일성](https://velog.io/@seokhwan-an/%EB%8F%99%EB%93%B1%EC%84%B1%EA%B3%BC-%EB%8F%99%EC%9D%BC%EC%84%B1)
 <br>
 [customException](https://velog.io/@seokhwan-an/Custom-Exception)
+<br>
+[전략패턴](https://velog.io/@seokhwan-an/%EC%A0%84%EB%9E%B5-%ED%8C%A8%ED%84%B4)
