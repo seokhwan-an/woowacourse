@@ -34,3 +34,5 @@
 [customException](https://velog.io/@seokhwan-an/Custom-Exception)
 <br>
 [전략패턴](https://velog.io/@seokhwan-an/%EC%A0%84%EB%9E%B5-%ED%8C%A8%ED%84%B4)
+<br>
+[상속](https://velog.io/@seokhwan-an/%EC%83%81%EC%86%8D)
