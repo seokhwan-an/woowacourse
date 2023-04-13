@@ -51,3 +51,4 @@
 ### 회고록
 
 ### 학습
+[build.gradle](https://velog.io/@seokhwan-an/build.gadle)
