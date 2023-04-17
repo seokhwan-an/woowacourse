@@ -52,3 +52,5 @@
 
 ### 학습
 [build.gradle](https://velog.io/@seokhwan-an/build.gadle)
+<br>
+[DAO vs Repository](https://velog.io/@seokhwan-an/DAO-vs-Repository)
