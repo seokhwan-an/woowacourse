@@ -54,3 +54,5 @@
 [build.gradle](https://velog.io/@seokhwan-an/build.gadle)
 <br>
 [DAO vs Repository](https://velog.io/@seokhwan-an/DAO-vs-Repository)
+<br>
+[batchUpdate를 활용한 반복되는 쿼리문 제거](https://velog.io/@seokhwan-an/batchUpdate%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94-%EC%BF%BC%EB%A6%AC%EB%AC%B8-%EC%A0%9C%EA%B1%B0)
