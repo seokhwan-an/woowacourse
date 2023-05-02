@@ -56,3 +56,5 @@
 [DAO vs Repository](https://velog.io/@seokhwan-an/DAO-vs-Repository)
 <br>
 [batchUpdate를 활용한 반복되는 쿼리문 제거](https://velog.io/@seokhwan-an/batchUpdate%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94-%EC%BF%BC%EB%A6%AC%EB%AC%B8-%EC%A0%9C%EA%B1%B0)
+<br>
+[스프링 DI의 3가지 방법과 생성자 주입을 사용하려는 이유](https://velog.io/@seokhwan-an/DIDependency-Injection%EC%9D%98-3%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95%EA%B3%BC-%EC%83%9D%EC%84%B1%EC%9E%90-%EC%A3%BC%EC%9E%85%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
