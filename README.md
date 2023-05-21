@@ -60,3 +60,5 @@
 [스프링 DI의 3가지 방법과 생성자 주입을 사용하려는 이유](https://velog.io/@seokhwan-an/DIDependency-Injection%EC%9D%98-3%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95%EA%B3%BC-%EC%83%9D%EC%84%B1%EC%9E%90-%EC%A3%BC%EC%9E%85%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
 <br>
 [patch vs put 어떤 상황에서 사용하면 될까?](https://velog.io/@seokhwan-an/PATCH-vs-PUT-%EC%96%B4%EB%96%A4-%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C-%EC%9D%B4%EC%9A%A9%ED%95%98%EB%A9%B4-%EB%90%A0%EA%B9%8C)
+<br>
+[테이블 정규화](https://velog.io/@seokhwan-an/%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%A0%95%EA%B7%9C%ED%99%94)
