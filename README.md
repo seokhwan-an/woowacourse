@@ -49,6 +49,7 @@
 | 장바구니(협업) | 5/23 ~ 6/5  |                                                                           |
 
 ### 회고록
+[자동차 경주 웹 미션 회고록](https://velog.io/@seokhwan-an/%EC%9E%90%EB%8F%99%EC%B0%A8-%EC%9B%B9-%EA%B2%BD%EC%A3%BC-%EB%AF%B8%EC%85%98-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
 
 ### 학습
 [build.gradle](https://velog.io/@seokhwan-an/build.gadle)
