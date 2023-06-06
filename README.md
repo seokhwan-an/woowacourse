@@ -63,3 +63,5 @@
 [patch vs put 어떤 상황에서 사용하면 될까?](https://velog.io/@seokhwan-an/PATCH-vs-PUT-%EC%96%B4%EB%96%A4-%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C-%EC%9D%B4%EC%9A%A9%ED%95%98%EB%A9%B4-%EB%90%A0%EA%B9%8C)
 <br>
 [테이블 정규화](https://velog.io/@seokhwan-an/%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%A0%95%EA%B7%9C%ED%99%94)
+<br>
+[nginx 활용기](https://velog.io/@seokhwan-an/nginx-%ED%99%9C%EC%9A%A9%EA%B8%B0)
