@@ -7,12 +7,12 @@
 
 ### 미션
 
-|  미션 이름  |      기간      | 미션 주소                                                      |
-|:-------:|:------------:|------------------------------------------------------------|
-| 자동차 경주  |  2/7 ~ 2/13  | [racingcar](https://github.com/seokhwan-an/java-racingcar) |
-|   사다리   | 2/14 ~ 2/27  | [ladder](https://github.com/seokhwan-an/java-ladder)       |
-|   블랙잭   | 2/28 ~ 3/13  | [blackjack](https://github.com/seokhwan-an/java-blackjack) | 
-|   체스    | 3/14 ~ 3/31  | [chess](https://github.com/seokhwan-an/java-chess)         | 
+|  미션 이름  |      기간      | 미션 주소                                                      | step1                                                             | step2                                                             |
+|:-------:|:------------:|------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|
+| 자동차 경주  |  2/7 ~ 2/13  | [racingcar](https://github.com/seokhwan-an/java-racingcar) | [step1](https://github.com/seokhwan-an/java-racingcar/tree/step1) | [step2](https://github.com/seokhwan-an/java-racingcar/tree/step2) |
+|   사다리   | 2/14 ~ 2/27  | [ladder](https://github.com/seokhwan-an/java-ladder)       | [step1](https://github.com/seokhwan-an/java-ladder/tree/step1)    | [step2](https://github.com/seokhwan-an/java-ladder/tree/step2)    |
+|   블랙잭   | 2/28 ~ 3/13  | [blackjack](https://github.com/seokhwan-an/java-blackjack) | [step1](https://github.com/seokhwan-an/java-blackjack/tree/step1) | [step2](https://github.com/seokhwan-an/java-blackjack/tree/step2) |
+|   체스    | 3/14 ~ 3/31  | [chess](https://github.com/seokhwan-an/java-chess)         | [step1](https://github.com/seokhwan-an/java-chess/tree/step1)     | [step2](https://github.com/seokhwan-an/java-chess/tree/step2)     |
 
 ### 회고록
 [페어프로그래밍 회고록](https://velog.io/@seokhwan-an/%ED%8E%98%EC%96%B4%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
